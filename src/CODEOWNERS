@@ -1,0 +1,55 @@
+# ========================================
+# CODEOWNERS - tektokit UI Library
+# ========================================
+# This file defines code ownership for the tektokit repository
+# All code modifications require review from the designated owners
+
+# ========================================
+# PROJECT INFORMATION
+# ========================================
+# Project Name:    tektokit
+# Description:     Framework-agnostic, unstyled-by-default UI component library
+# License:         MIT
+# Repository:      https://github.com/techjmi/tektokit
+
+# ========================================
+# MAINTAINER & OWNER
+# ========================================
+# All code is owned and maintained by:
+# Name:            Md Shamim Akhter
+# Email:           contactshamim62@gmail.com
+# GitHub:          @techjmi
+# Portfolio:       https://shamim-akhter-tawny.vercel.app/
+# Website:         https://intervieworbit.site
+
+# ========================================
+# CODE OWNERSHIP
+# ========================================
+# Default owner for everything in the repo
+*                           @techjmi
+
+# Core Components
+/src/components/ui/         @techjmi
+/src/components/sections/   @techjmi
+/src/components/layout/     @techjmi
+/src/components/utils/      @techjmi
+
+# Documentation
+*.md                        @techjmi
+/docs/                      @techjmi
+
+# Configuration Files
+*.config.js                 @techjmi
+*.config.ts                 @techjmi
+package.json                @techjmi
+tsconfig.json               @techjmi
+
+# Build & Deployment
+/.github/                   @techjmi
+/scripts/                   @techjmi
+
+# ========================================
+# CONTRIBUTING
+# ========================================
+# Contributions are welcome! Please read CONTRIBUTING.md before submitting PRs
+# For questions or issues, contact: contactshamim62@gmail.com

@@ -43,13 +43,15 @@ yarn add tektokit
 pnpm add tektokit
 ```
 
-### Peer Dependencies
+### Requirements
 
 tektokit requires React 18.0.0 or higher:
 
 ```bash
 npm install react@^18.0.0 react-dom@^18.0.0
 ```
+
+**Note:** tektokit automatically includes `react-icons` and `swiper` as dependencies. You don't need to install them separately.
 
 ## Quick Start
 

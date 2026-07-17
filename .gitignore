@@ -50,14 +50,3 @@ Thumbs.db
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
-
-# Test/development folders
-ui/
-test/
-examples/
-
-# Scripts
-copy-to-test.sh
-fix-imports.sh
-fix-imports-2.sh
-remove-colors.sh

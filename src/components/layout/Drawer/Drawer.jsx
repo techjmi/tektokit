@@ -102,7 +102,7 @@ const Drawer = ({
         {showBackdrop && (
           <div
             className={classNames(
-             "fixed inset-0 z-40 bg-black/40 transition-opacity",
+             "fixed inset-0 z-40  transition-opacity",
               backdropBlur &&"backdrop-blur-sm"
             )}
             onClick={closeOnBackdrop ? onClose : undefined}

@@ -1,6 +1,6 @@
 {
   "name": "tektokit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern, framework-agnostic React UI component library with SSR support, Tailwind CSS styling, and comprehensive utilities",
   "author": "Md Shamim Akhter <https://github.com/techjmi>",
   "license": "MIT",

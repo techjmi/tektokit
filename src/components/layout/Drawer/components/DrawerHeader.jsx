@@ -24,7 +24,7 @@ const DrawerHeader = ({
   return (
     <div
       className={classNames(
-       "flex items-center justify-between px-4 pt-4 dark:bg-gray-900 text-gray-900 dark:text-gray-100",
+       "flex items-center justify-between px-4 pt-4",
         className
       )}
       {...props}

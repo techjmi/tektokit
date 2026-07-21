@@ -24,7 +24,7 @@ const DrawerFooter = ({
   return (
     <div
       className={classNames(
-       "flex items-center gap-3 dark:bg-gray-900 text-gray-900 dark:text-gray-100",
+       "flex items-center gap-3",
         padding &&"p-4",
         alignmentClass,
         className
